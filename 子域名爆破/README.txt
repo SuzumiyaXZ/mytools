@@ -1,1 +1,1 @@
-使用方法: python subdomain.py xxx.com dic.txt
+浣跨敤鏂规硶: python subdomain.py xxx.com dic.txt
